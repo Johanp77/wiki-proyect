@@ -1,8 +1,30 @@
-html {
- background-color: #060609;
-
+html{
+    background-color: red;
 }
- header{
 
-    background-color: #1a5e80;
- }
+.navegacion{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    padding: 0px 97.47% 0px 0px;
+    background-color: yellow;
+}
+
+
+
+.mover1{
+    position: absolute;
+    left: 5%;
+    top: 1.7%;
+}
+.mover2{
+    position: absolute;
+    left: 12%;
+    top: -20%;
+}
+.mover3{
+    position: absolute;
+    left: 20%;
+    top: 5%;
+    
+}
