@@ -1,5 +1,5 @@
 html{
-    background-color: red;
+    background-color: #0c2e3f;
 }
 
 .navegacion{
@@ -7,11 +7,8 @@ html{
     left: 0px;
     top: 0px;
     padding: 0px 97.47% 0px 0px;
-    background-color: yellow;
+    background-color:#2b9bc8;
 }
-
-
-
 .mover1{
     position: absolute;
     left: 5%;
@@ -19,12 +16,24 @@ html{
 }
 .mover2{
     position: absolute;
-    left: 12%;
+    left: 11.900%;
     top: -20%;
 }
 .mover3{
     position: absolute;
-    left: 20%;
+    left: 19%;
     top: 5%;
+    
+}
+.mover4{
+    position: absolute;
+    left: 26%;
+    top:10%;
+    
+}
+.mover5{
+    position: absolute;
+    left: 33%;
+    bottom: -7%;
     
 }
