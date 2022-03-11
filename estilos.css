@@ -2,6 +2,10 @@ html{
     background-color: #0c2e3f;
 }
 
+a {
+text-decoration: none;
+}
+
 .navegacion{
     position: absolute;
     left: 0px;
