@@ -52,3 +52,34 @@ left: 1850%;
     bottom: -7%;
     left: 90%;
 }
+
+.ga {
+
+width: 700px;
+
+}
+
+#contenedor{
+
+ width: 700px;
+ margin: 20px  auto;
+
+}
+
+#contenedor ul {
+
+list-style: none;
+width: 2800px;
+display: flex;
+
+animation: slide 20s infinite;
+}
+
+@keyframes slide {
+
+    0% {margin-left: 0px;}
+    20% {margin-left: 0px;}
+    25% {margin-left: -700px;}
+45% {margin-left:-700px}
+
+}
