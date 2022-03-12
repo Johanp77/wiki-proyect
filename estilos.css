@@ -1,5 +1,6 @@
 html{
     background-color: #0c2e3f;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 a {
@@ -86,4 +87,12 @@ animation: slide 20s infinite alternate;
 
     75% {margin-left: -2100px;}
     100% {margin-left: -2100px}
+}
+
+.titulo{
+    position: relative;
+    margin: 0%;
+    padding: 0.1% ;
+    background-color: #1a5e80;
+    text-align:center;
 }
