@@ -68,6 +68,7 @@ width: 700px;
 list-style: none;
 width: 2800px;
 display: flex;
+position: relative;
 
 animation: slide 20s infinite alternate;
 }
