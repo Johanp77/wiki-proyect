@@ -56,12 +56,12 @@ left: 1850%;
 
 .ga {
 
-width: 700px;
+width: 100%;
 
 }
 #contenedor{
- width: 700px;
- margin: 30px  auto;
+ width: 54%;
+ margin: 50px  auto;
  overflow: hidden;
 }
 
