@@ -96,3 +96,30 @@ animation: slide 20s infinite alternate;
     background-color: #1a5e80;
     text-align:center;
 }
+
+table {
+
+    width: 100%;
+    border-collapse: collapse;
+    position: relative;
+
+}
+
+th, td {
+
+    border: solid 1px red;
+    padding: 5px;
+}
+
+th {
+
+    background-color: yellow;
+    color:white;
+    text-align: center;
+}
+
+tr:hover {
+background-color: blue;
+cursor: pointer;
+
+}
