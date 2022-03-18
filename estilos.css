@@ -91,7 +91,7 @@ animation: slide 20s infinite alternate;
 
 .titulo{
     position: relative;
-    margin: 0%;
+    margin-bottom: 3%;
     padding: 0.1% ;
     background-color: #1a5e80;
     text-align:center;
@@ -101,31 +101,34 @@ table {
 
     width: 100%;
     border-collapse: collapse;
-    position: relative;
 
 }
 
-th, td {
 
-    border: solid 1px red;
-    padding: 5px;
-}
 
 th {
 
-    background-color: yellow;
+    background-color: #2b9bc8;
     color:white;
     text-align: center;
-}
-.foto {
- align-items: center;
- padding: 0%;
- margin: 0%;
-
+    padding: 1%;
 }
 
 tr:hover {
-background-color: blue;
+background-color: #2bc8c8;
 cursor: pointer;
-
 }
+
+tr {
+    border: solid 1px #2b9bc8;
+}
+}
+
+td {
+    text-align:justify;
+}
+.o {
+
+    margin: 2000px;
+}
+
